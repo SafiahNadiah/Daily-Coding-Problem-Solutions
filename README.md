@@ -1,1 +1,1 @@
-# Daily-Coding-Problem-Solutions
+# Daily Coding Problem Solutions
