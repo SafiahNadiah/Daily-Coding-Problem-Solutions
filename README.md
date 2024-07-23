@@ -1,7 +1,7 @@
 # Daily Coding Problem Solutions
 ## Daily Coding Problem: Problem #1 [Easy]
 
-Solutions:
+Solutions: [js](https://github.com/SafiahNadiah/Daily-Coding-Problem-Solutions/blob/main/js/js0001.js)
 
 Good morning! Here's your coding interview problem for today.
 
