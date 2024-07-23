@@ -1,5 +1,5 @@
 # Daily Coding Problem Solutions
-Daily Coding Problem: Problem #1 [Easy]
+## Daily Coding Problem: Problem #1 [Easy]
 
 Solutions:
 
